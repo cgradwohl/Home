@@ -1,0 +1,69 @@
+
+.well-lg {
+  background: #000;
+}
+
+body {
+  background: #000;
+}
+.row {
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+
+
+
+header {
+  background: #000;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width:655px;
+  height:655px;
+  object-fit: cover;
+  position: relative;
+  width: 89%; /* for IE 6 */
+}
+
+h2 span {
+  color: white;
+  font-family: 'Ubuntu', sans-serif;  font-size: 60%;
+  letter-spacing: 15px;
+  position: absolute;
+  top: 525px;
+  text-align: center;
+  width: 100%;
+}
+
+h4 span {
+  color: white;
+  font-family: 'Ubuntu', sans-serif;  font-size: 60%;
+  letter-spacing: 10px;
+  position: absolute;
+  top: 560px;
+  text-align: center;
+  width: 100%;
+}
+
+.col-sm-8 p {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 100%;
+  margin: 100px 0px 300px 0px;
+
+}
+
+.col-sm-8 h3 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 200%;
+  margin: 180px 0px 0px 0px;
+}
+
+
+
+.seal img {
+    width: 20%; /* you can use % */
+    height: auto;
+    top: 150px;
+}
