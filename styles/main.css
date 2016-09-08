@@ -50,20 +50,24 @@ h4 span {
 .col-sm-8 p {
   font-family: 'Ubuntu', sans-serif;
   font-size: 100%;
-  margin: 100px 0px 300px 0px;
+  margin: 70px 0px 100px 0px;
 
 }
 
 .col-sm-8 h3 {
   font-family: 'Ubuntu', sans-serif;
   font-size: 200%;
-  margin: 180px 0px 0px 0px;
+  margin: 120px 0px 0px 0px;
 }
 
 
 
 .seal img {
-    width: 20%; /* you can use % */
-    height: auto;
-    top: 150px;
+  width: 20%; /* you can use % */
+  height: auto;
+  top: 75px;
+}
+
+.projects {
+  background: red;
 }
